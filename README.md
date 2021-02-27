@@ -1,2 +1,2 @@
 # hello-world
-my practice tutoria with git hub
+my practice tutorial with git hub
